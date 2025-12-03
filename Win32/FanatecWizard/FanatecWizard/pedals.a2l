@@ -1,0 +1,27 @@
+ASAP2_VERSION 1 71
+
+/begin PROJECT FanatecPedals "Fanatec Pedals"
+  /begin MODULE PedalModule "Pedal Data"
+
+    /begin MEASUREMENT brake_raw "Brake Pedal Raw"
+      UBYTE NO_COMPU_METHOD 0 0 0 255
+      ECU_ADDRESS 0x0
+    /end MEASUREMENT
+
+    /begin MEASUREMENT throttle_raw "Throttle Pedal Raw"  
+      UBYTE NO_COMPU_METHOD 0 0 0 255
+      ECU_ADDRESS 0x0
+    /end MEASUREMENT
+
+    /begin MEASUREMENT vehicle_speed "Vehicle Speed"
+      UWORD NO_COMPU_METHOD 0 0 0 300
+      ECU_ADDRESS 0x0
+    /end MEASUREMENT
+
+    /begin MEASUREMENT drive_mode "Drive Mode"
+      UBYTE NO_COMPU_METHOD 0 0 0 1
+      ECU_ADDRESS 0x0
+    /end MEASUREMENT
+
+  /end MODULE
+/end PROJECT

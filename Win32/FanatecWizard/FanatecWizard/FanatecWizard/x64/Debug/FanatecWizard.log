@@ -1,0 +1,4 @@
+﻿  FanatecWizardDesktop.cpp
+C:\Users\RZZ3K6\Documents\Pedalprojecty\FanatecWizard\FanatecWizard\FanatecWizardDesktop.cpp(248,9): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+C:\Users\RZZ3K6\Documents\Pedalprojecty\FanatecWizard\FanatecWizard\FanatecWizardDesktop.cpp(247,9): warning C4244: 'argument': conversion from 'int' to 'Gdiplus::REAL', possible loss of data
+  FanatecWizard.vcxproj -> C:\Users\RZZ3K6\Documents\Pedalprojecty\FanatecWizard\x64\Debug\FanatecWizard.exe

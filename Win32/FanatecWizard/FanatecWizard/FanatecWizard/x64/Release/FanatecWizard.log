@@ -1,0 +1,2 @@
+﻿MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\RZZ3K6\Documents\Pedalprojecty\FanatecWizard\x64\Release\FanatecWizard.exe : fatal error LNK1120: 1 unresolved externals
