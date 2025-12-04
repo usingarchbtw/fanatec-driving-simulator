@@ -2,7 +2,7 @@
 
 
 
-[Demonstrations](www.github.com) • [Documentation](docs.md) • [Techstack/Timeline](www.github.com)
+[Demonstrations](demonstrations) • [Documentation](docs.md) • [Techstack/Timeline](timeline.md)
 
 
 
