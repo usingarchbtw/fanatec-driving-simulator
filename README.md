@@ -14,10 +14,16 @@ Fanatec wizard is a Win32 application developed as a solution to manually changi
 
 
 
-*Data Map*
+##### Data Map
+*CAN Version*
 
 `Fanatec Pedals -> [Binary Data] -> Computer -> (Windows Sends Binary HID Data To Application) -> Application -> [CAN Data] -> CAN Bus `
 
+*Win32 Version*
+`Fanatec Pedals -> [Binary Data] -> Computer -> (Windows Sends Binary HID Data To Application) -> Application `
+
+*MatLab Version*
+`Fanatec Pedals -> [Binary Data] -> Computer -> (Windows Sends Binary HID Data To Application) -> Application -> Simulink -> [XCP Data] -> End Point `
 
 
 Each pedal has functionaility similar to what you would see in a traditional car, but there are differences:
