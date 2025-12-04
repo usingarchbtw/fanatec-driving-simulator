@@ -42,7 +42,9 @@ fanatec wizard supports windows only (sorry linux and apple)
 
 > For Win32 application use
 
-- clone the repository, run the .exe
+- clone the repository
+- open .slx
+- build
 
 
 
@@ -57,7 +59,10 @@ fanatec wizard supports windows only (sorry linux and apple)
 - open simulink, create an S function model with *five* scope outputs, open each scope to see live changes to attributes upon changes to the pedal
 
 
-
+> For CAN Version
+- clone the repository
+- open .slx
+- build
 
 
 
